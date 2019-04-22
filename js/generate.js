@@ -6,6 +6,7 @@ generate(keyword)
         "load",(event) =>
     {
         document.write(event.target.responseText);
+        console.log(event.target.responseText);
     })
     request.send();
 }
