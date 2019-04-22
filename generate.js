@@ -1,7 +1,7 @@
 function generate(keyword)
 {
     const request = new XMLHttpRequest();
-    request.open("GET",`m.liveatc.net/feeds/?icao=${keyword}`);
+    request.open("GET","google.com");
     request.addEventListener(
         "load",(event) =>
     {
