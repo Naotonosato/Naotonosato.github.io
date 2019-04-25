@@ -2,6 +2,8 @@
 
 I'm Naoto Uehara.
 
+...By the way, do you know "Boka Suiso"?
+
 ## Products
 
 - Millet Pie
