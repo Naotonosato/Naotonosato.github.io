@@ -42,7 +42,7 @@ nawonaototomousu@gmail.com
 
 [qiita](https://qiita.com/nawonaototomousu)
 
-## I Love These Music...!!
+## I Love These Musics...!!
 
 - Hurts Good / R5 (The Driver Era)
 - I Can't Say I'm In Love / R5(The Driver Era)
@@ -62,3 +62,5 @@ nawonaototomousu@gmail.com
 - Loser / 米津玄師
 - Vinyl / King Gnu
 - 白日 / King Gnu
+
+###### I'm using Typora to write this page. Thank you Typora developers! Typora is so useful.
