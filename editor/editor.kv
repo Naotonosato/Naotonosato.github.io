@@ -1,0 +1,19 @@
+Editor
+
+<Editor@Screen>:
+    BoxLayout:
+        MultiLanguageTextInput:
+            id: rst_code
+        RstDocument:
+            text: app.convert(rst_code.textinput.text)
+            show_errors: True
+
+
+<FileNamePopup@BoxLayout>:
+    Label: 
+        text: 'file name?'
+    TextInput:
+        multiline: False
+        on_text_validate:
+            app.filename = self.text
+            app.popup.dismiss()
